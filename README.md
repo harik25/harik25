@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm [Harikishore] 👋
 
 Welcome to my GitHub profile! I'm passionate about automation, data analytics, and AI development. I focus on improving processes through cutting-edge technologies like UiPath, Python, and SAP. Here you'll find projects that reflect my journey in automation and programming.
 
