@@ -5,23 +5,41 @@ Welcome to my GitHub profile! I'm passionate about automation, data analytics, a
 ## 🧑‍💻 About Me
 
 - 🔧 Experienced in UiPath automation, Python programming, and SAP application development.
-- 🚀 I'm a UiPath Certified Developer with hands-on experience building and deploying robots to automate complex business processes.
-- 📊 I hold a Specialized AI Associate certificate and am constantly improving my skills in data analytics and AI.
-- 📝 I’m passionate about sharing knowledge and often write articles related to UiPath, Python, and tech innovations on LinkedIn.
-- 🔍 I’m always on the lookout for more advanced automation challenges to push my learning and development further.
+- 🚀 UiPath Certified Developer with hands-on experience in building and deploying robots to automate complex business processes.
+- 📊 Holder of a Specialized AI Associate certificate, constantly improving my skills in data analytics and AI.
+- 📝 Passionate about sharing knowledge through articles on LinkedIn related to UiPath, Python, and tech innovations.
+- 🔍 Always on the lookout for advanced automation challenges to further push my learning and development.
 
 ## 🛠️ Technologies & Tools
 
-- **Programming Languages**: Python, Visual Basics
-- **Automation**: UiPath, Robotic Process Automation (RPA)
-- **Data Analytics**: Excel, SQL, Data Visualization
-- **Version Control**: Git, GitHub
-- **Certifications**: UiPath Certified Specialized AI Associate
+### Programming Languages:
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![Visual Basic](https://img.shields.io/badge/Visual%20Basic-945DB7?style=flat&logo=visualstudio&logoColor=white)
+
+### Automation:
+![UiPath](https://img.shields.io/badge/UiPath-2F72A4?style=flat&logo=uipath&logoColor=white)  
+![RPA](https://img.shields.io/badge/RPA-0085CA?style=flat&logo=robocorp&logoColor=white)
+
+### Data Analytics:
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-00618A?style=flat&logo=postgresql&logoColor=white)  
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-FFC107?style=flat&logo=tableau&logoColor=white)
+
+### Version Control:
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+### Certifications:
+![UiPath Certified](https://img.shields.io/badge/UiPath%20Certified-0085CA?style=flat&logo=uipath&logoColor=white)  
+![AI Associate](https://img.shields.io/badge/Specialized%20AI%20Associate-00A0B0?style=flat&logo=python&logoColor=white)
 
 ## 📈 My Projects
-- **Repo**: Check my below repositories!!
+- **[Repo 1](#)**: Project showcasing automation processes with UiPath.
+- **[Repo 2](#)**: Python scripts for data analysis and automation.
+- **[Repo 3](#)**: SAP application development and integration projects.
 
 ## 📫 Connect with Me
-
 - LinkedIn: [Harikishore S](https://www.linkedin.com/in/harikishore205)
-- Email: [Harikishore](mailto:harikishore205@gmail.com)
+- Email: [harikishore205@gmail.com](mailto:harikishore205@gmail.com)
+
+Feel free to explore my repositories and reach out if you're interested in collaborating or have any questions!
