@@ -19,8 +19,9 @@ Welcome to my GitHub profile! I'm passionate about automation, data analytics, a
 - **Certifications**: UiPath Certified Specialized AI Associate
 
 ## 📈 My Projects
+- **Repo**: Check my below repositories!!
 
 ## 📫 Connect with Me
 
-- LinkedIn: [Harikishore S](https://www.linkedin.com/in/harikishore205/)
+- LinkedIn: [Harikishore S](https://www.linkedin.com/in/harikishore205)
 - Email: [Harikishore](mailto:harikishore205@gmail.com)
