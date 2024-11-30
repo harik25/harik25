@@ -18,12 +18,12 @@ Welcome to my GitHub profile! I'm passionate about automation, data analytics, a
 
 ### Automation:
 ![RPA UiPath](https://img.shields.io/badge/UiPath-2F72A4?style=flat&logo=uipath&logoColor=white)  
-![Power Automate](https://img.shields.io/badge/RPA-0085CA?style=flat&logo=robocorp&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0078D4?style=flat&logo=microsoft-flow&logoColor=white)
 
 ### Data Analytics:
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-00618A?style=flat&logo=postgresql&logoColor=white)  
-![Power BI](https://img.shields.io/badge/Data%20Visualization-FFC107?style=flat&logo=tableau&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-00618A?style=flat&logo=sqlite&logoColor=white)  
+![Power BI](https://img.shields.io/badge/Power%20BI-FFB81C?style=flat&logo=powerbi&logoColor=white)
 
 ### Version Control:
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I'm passionate about automation, data analytics, a
 ![UiPath Certified Specialized AI Associate](https://img.shields.io/badge/UiPath%20Certified-0085CA?style=flat&logo=uipath&logoColor=white)  
 
 ## 📈 My Projects
-- **[Repo](#)**: check below my repositories !!
+- **[Repo](https://github.com/yourusername)**: Check below my repositories !!
 
 ## 📫 Connect with Me
 - LinkedIn: [Harikishore S](https://www.linkedin.com/in/harikishore205)
