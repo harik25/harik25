@@ -33,10 +33,10 @@ Welcome to my GitHub profile! I'm passionate about automation, data analytics, a
 ![UiPath Certified Specialized AI Associate](https://img.shields.io/badge/UiPath%20Certified-0085CA?style=flat&logo=uipath&logoColor=white)  
 
 ## 📈 My Projects
-- **[Repo](https://github.com/yourusername)**: Check below my repositories !!
+- **[Repo](https://github.com/harik25)**: Check below my repositories !!
 
 ## 📫 Connect with Me
-- [![Email](https://upload.wikimedia.org/wikipedia/commons/4/4e/Envelope_icon.svg)](mailto:harikishore205@gmail.com)
-- [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.png)](https://in.linkedin.com/in/harikishores205)
+- 📬 [Email](mailto:harikishore205@gmail.com)
+- 🔗 [LinkedIn](https://in.linkedin.com/in/harikishores205)
 
 Feel free to explore my repositories and reach out if you're interested in collaborating or have any questions!
