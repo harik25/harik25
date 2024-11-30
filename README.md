@@ -36,9 +36,7 @@ Welcome to my GitHub profile! I'm passionate about automation, data analytics, a
 - **[Repo](https://github.com/yourusername)**: Check below my repositories !!
 
 ## 📫 Connect with Me
-- Email: [harikishore205@gmail.com](mailto:harikishore205@gmail.com)
-
-- <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="harikishores205" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/harikishores205?trk=profile-badge">Harikishore S</a></div>
-              
+- [![Email](https://upload.wikimedia.org/wikipedia/commons/4/4e/Envelope_icon.svg)](mailto:harikishore205@gmail.com)
+- [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.png)](https://in.linkedin.com/in/harikishores205)
 
 Feel free to explore my repositories and reach out if you're interested in collaborating or have any questions!
