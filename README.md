@@ -6,13 +6,6 @@
 
 <h3 align="center">🏅 Certified UiPath Developer | 🏆 UiPath Specialized AI Associate | 🚀 AI Automation Enthusiast | 📊 Data-Driven Advocate</h3>
 
-## 🧑‍💻 About Me
-
-- 🔧 **Experienced Automation Developer** with advanced skills in UiPath, Python, and SAP, specializing in the design, development, and deployment of robust automation solutions.
-- 🚀 **UiPath Certified Developer** with extensive experience in automating complex business processes across various industries, driving efficiency and innovation.
-- 📊 **Specialized AI Associate** with a focus on data analytics and AI development, consistently enhancing my knowledge to stay at the forefront of emerging technologies.
-- 📝  **Passionate** about contributing to the tech community, regularly sharing insights and articles on LinkedIn about UiPath, Python, and the latest industry advancements.
-- 🔍 **Constantly seeking** challenging opportunities to leverage my skills in automation, data analytics, and AI, aiming to solve real-world problems through technology.
 
 ## **🚀Skills🚀**
 
