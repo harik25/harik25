@@ -90,10 +90,9 @@
 
 <h1 align="center">🚀GitHub Stats</h1>
 
-![Harik25's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harik25&theme=default&show_icons=true&hide_border=true&layout=compact)
-
 ![Harik25's Stats](https://github-readme-stats.vercel.app/api?username=Harik25&theme=default&show_icons=true&hide_border=true&count_private=true)
 
+![Harik25's Streak](https://github-readme-streak-stats.herokuapp.com/?user=harik25&theme=default&hide_border=true)
 
 <h1 align="center">📱Contact Me</h1>
 
