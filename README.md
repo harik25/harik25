@@ -6,6 +6,40 @@
 
 <h3 align="center">🏅 Certified UiPath Developer | 🏆 UiPath Specialized AI Associate | 🚀 AI Automation Enthusiast | 📊 Data-Driven Advocate</h3>
 
+<div style="font-family: Arial, sans-serif; line-height: 1.6; background: #f9f9f9; padding: 20px; border-radius: 10px; border: 1px solid #ddd;">
+
+  <h2 style="text-align: center; color: #4CAF50;">🧑‍💻 About Me</h2>
+
+  <ul style="list-style: none; padding: 0;">
+    <li style="margin-bottom: 15px;">
+      <span style="font-size: 1.5rem; color: #4CAF50;">🌟</span> 
+      <b style="font-size: 1.1rem;">Experienced Automation Developer:</b>
+      <br>Advanced expertise in <b>UiPath</b>, <b>Python</b>, and <b>SAP</b>, specializing in designing and deploying cutting-edge automation solutions.
+    </li>
+    <li style="margin-bottom: 15px;">
+      <span style="font-size: 1.5rem; color: #0078D7;">🚀</span> 
+      <b style="font-size: 1.1rem;">UiPath Certified Developer:</b>
+      <br>Proven track record of automating complex business processes across industries, driving innovation and operational efficiency.
+    </li>
+    <li style="margin-bottom: 15px;">
+      <span style="font-size: 1.5rem; color: #FF9800;">📊</span> 
+      <b style="font-size: 1.1rem;">Specialized AI Associate:</b>
+      <br>Focused on <b>data analytics</b> and <b>AI development</b>, continually upskilling to stay ahead in emerging technologies.
+    </li>
+    <li style="margin-bottom: 15px;">
+      <span style="font-size: 1.5rem; color: #E91E63;">✍️</span> 
+      <b style="font-size: 1.1rem;">Tech Enthusiast & Community Contributor:</b>
+      <br>Passionate about sharing knowledge with the tech community through insightful articles on <b>UiPath</b>, <b>Python</b>, and industry trends on LinkedIn.
+    </li>
+    <li style="margin-bottom: 15px;">
+      <span style="font-size: 1.5rem; color: #9C27B0;">🔍</span> 
+      <b style="font-size: 1.1rem;">Lifelong Learner & Problem Solver:</b>
+      <br>Always on the lookout for opportunities to leverage automation, <b>data analytics</b>, and <b>AI</b> to tackle real-world challenges and deliver impactful solutions.
+    </li>
+  </ul>
+  
+</div>
+
 
 ## **🚀Skills🚀**
 
