@@ -80,7 +80,7 @@
 
 <h1 align="center">✍️ Articles & Blogs</h1>
 
-<a align="centre"> Explore my insights on **technology**, **automation**, and more! Check my latest write-ups below  </a>
+<a align="centre"> Explore my insights on **technology**, **automation**, and more! Check my latest write-ups below !! 👇 </a>
 
 <div align="center">
   <a href="https://medium.com/@harikishore205" target="_blank" style="text-decoration:none;">
