@@ -64,18 +64,18 @@
 
 <h1 align="center">🏅Certification</h1>
 
-![UiPath Badge](https://img.shields.io/badge/UiPath_Certified_Specialized_AI_Associate-orange?style=for-the-badge&logo=uipath&logoColor=white) 
+![UiPath Badge](https://img.shields.io/badge/UiPath_Certified_Specialized_AI_Associate-orange?style=for-the-badge&logo=uipath&logoColor=white) <br>
 ![UiPath Badge](https://img.shields.io/badge/UiPath_Automation_Developer_Professional-orange?style=for-the-badge&logo=uipath&logoColor=white)
 
 
 <h1 align="center">🏆 Achievements</h1>
-1.th1
-2.th2
+1.th1 <br>
+2.th2 <br>
 
 
 <h1 align="center">📝 My Projects</h1>
-1. Uipath1
-2. Uipath2
+1. Uipath1 <br>
+2. Uipath2 <br>
 3. Uipath3
 
 <h1 align="center">✍️ Articles & Blogs</h1>
