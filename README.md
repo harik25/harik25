@@ -5,28 +5,28 @@
 <h3 align="center">🏅 Certified UiPath Developer | 🏆 UiPath Specialized AI Associate | 🚀 AI Automation Enthusiast | 📊 Data-Driven Advocate</h3>
 
 
-# 🌟 About Me - Harikishore
+## 🌟 About Me - Harikishore
 
 <div style="font-size: 16px; line-height: 1.6;">
 
-## 1. **UiPath Certified Developer** 🤖
+### 1. **UiPath Certified Developer** 🤖
 - **Certified Expertise**: A UiPath Certified Developer with a strong background in end-to-end automation processes.
 - **Advanced Automation**: Skilled in leveraging UiPath's advanced features to automate complex workflows and integrate AI-driven insights into business operations.
 
-## 2. **Experienced Automation Developer** 💻
+### 2. **Experienced Automation Developer** 💻
 - **2+ Years of Experience**: Over two years of hands-on experience in automation, delivering projects from design to deployment.
 - **Successful Deployments**: Developed and deployed 5 automation bots across diverse domains, streamlining operations and improving efficiency.
 - **Project Leadership**: Led a major automation project from start to finish, handling all aspects of development and deployment.
 
-## 3. **Specialized AI Associate** 🧠
+### 3. **Specialized AI Associate** 🧠
 - **AI Integration**: Expertise in integrating AI technologies like NLP and Communication Mining into automation solutions.
 - **AI Center Utilization**: Deploy and manage machine learning models using UiPath’s AI Center, driving smarter, data-driven automation.
 
-## 4. **Tech Enthusiast & Automation Advocate** 🚀
+### 4. **Tech Enthusiast & Automation Advocate** 🚀
 - **Continuous Learning**: Passionate about exploring the latest trends in automation, AI, and data analytics.
 - **Community Engagement**: Actively share insights and contribute to the tech community through LinkedIn articles and discussions.
 
-## 5. **Problem Solver & Quick Learner** 🏆
+### 5. **Problem Solver & Quick Learner** 🏆
 - **Rapid Adaptation**: Known for swiftly solving complex challenges and delivering impactful solutions.
 - **Growth Mindset**: Continuously learning and applying new technologies to create innovative solutions across industries.
 
