@@ -5,7 +5,7 @@
 <h3 align="center">🏅 Certified UiPath Developer | 🏆 UiPath Specialized AI Associate | 🚀 AI Automation Enthusiast | 📊 Data-Driven Advocate</h3>
 
 
-## 🌟 About Me - Harikishore
+<h2 align="center">⭐About Me </h2>
 
 <div style="font-size: 16px; line-height: 1.6;">
 
