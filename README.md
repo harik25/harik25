@@ -75,7 +75,7 @@
 
 <h1 align="center">📝 My Projects</h1>
 
-### [YouTube Data Harvesting](https://github.com/yourusername/yourrepo) <br>
+### [YouTube Data Harvesting](https://github.com/harik25/YotubeDataHarvesting) <br>
 Extract data from YouTube using the YouTube API, process it into a DataFrame, store it in MySQL, and create a Streamlit app for data visualization and interaction.<br> ![Python](https://img.shields.io/badge/Python-blue) ![Python](https://img.shields.io/badge/MySQL-blue) ![Python](https://img.shields.io/badge/StreamLite-blue) ![Python](https://img.shields.io/badge/Pandas-blue)
 
 <h1 align="center">✍️ Articles & Blogs</h1>
