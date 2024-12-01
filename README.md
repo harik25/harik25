@@ -90,6 +90,11 @@
 
 <h1 align="center">🚀GitHub Stats</h1>
 
+![Harik25's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harik25&theme=default&show_icons=true&hide_border=true&layout=compact)
+
+![Harik25's Stats](https://github-readme-stats.vercel.app/api?username=Harik25&theme=default&show_icons=true&hide_border=true&count_private=true)
+
+
 <h1 align="center">📱Contact Me</h1>
 
 <div align="center">
