@@ -1,8 +1,10 @@
-<h1 align="center">Hi 👋 there , I'm Harikishore - AI Automation Developer😎 </h1>
+<h1 align="center">👋 Hi there, I'm <span style="color:#4CAF50;">Harikishore</span> - <span style="color:#0078D7;">AI Automation Developer</span> 😎</h1>
 
-<h2 align="center">Welcome to my GitHub Profile !!🤝 </h2>
+<h2 align="center">✨ Welcome to my GitHub Profile! 🤝</h2>
 
-<h3 align="centre">🏅Certified Uipath Developer | 🏆UiPath Specialized AI Associate |🚀AI Automation Developer|📊 Data-Driven Automation Advocate |🔥Automation Enthusiast🔥 </h3>
+<hr style="width:50%;border:1px solid #4CAF50;">
+
+<h3 align="center">🏅 Certified UiPath Developer | 🏆 UiPath Specialized AI Associate | 🚀 AI Automation Enthusiast | 📊 Data-Driven Advocate</h3>
 
 ## 🧑‍💻 About Me
 
