@@ -97,8 +97,7 @@ Extract data from YouTube using the YouTube API, process it into a DataFrame, st
 <h1 align="center">📱Contact Me</h1>
 
 <div align="center">
-  <a href="www.linkedin.com/in/
-harikishores205">
+  <a href="www.linkedin.com/in/harikishores205">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:harikishore205@gmail.com">
