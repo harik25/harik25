@@ -2,8 +2,6 @@
 
 <h2 align="center">✨ Welcome to my GitHub Profile! 🤝</h2>
 
-<hr style="width:50%;border:1px solid #4CAF50;">
-
 <h3 align="center">🏅 Certified UiPath Developer | 🏆 UiPath Specialized AI Associate | 🚀 AI Automation Enthusiast | 📊 Data-Driven Advocate</h3>
 
 <div style="font-family: Arial, sans-serif; line-height: 1.6; background: #f9f9f9; padding: 20px; border-radius: 10px; border: 1px solid #ddd;">
