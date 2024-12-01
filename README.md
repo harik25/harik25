@@ -64,9 +64,10 @@
 
 <h1 align="center">🏅Certification</h1>
 
-![UiPath Badge](https://img.shields.io/badge/UiPath_Certified_Specialized_AI_Associate-orange?style=for-the-badge&logo=uipath&logoColor=white) ![UiPath Badge](https://img.shields.io/badge/UiPath_Automation_Developer_Professional-orange?style=for-the-badge&logo=uipath&logoColor=white)
+![UiPath Badge](https://img.shields.io/badge/UiPath_Certified_Specialized_AI_Associate-orange?style=for-the-badge&logo=uipath&logoColor=white) 
+![UiPath Badge](https://img.shields.io/badge/UiPath_Automation_Developer_Professional-orange?style=for-the-badge&logo=uipath&logoColor=white)
 
-## ****
+
 <h1 align="center">🏆 Achievements</h1>
 1.th1
 2.th2
@@ -77,11 +78,9 @@
 2. Uipath2
 3. Uipath3
 
-
-## ****  
 <h1 align="center">✍️ Articles & Blogs</h1>
 
-Explore my insights on **technology**, **automation**, and more! Stay inspired and informed through my latest write-ups.  
+<a align="centre"> Explore my insights on **technology**, **automation**, and more! Check my latest write-ups below  </a>
 
 <div align="center">
   <a href="https://medium.com/@harikishore205" target="_blank" style="text-decoration:none;">
