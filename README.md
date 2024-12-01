@@ -83,7 +83,13 @@
 
 
 ## **✍️ Articles & Blogs**  
-Stay updated with my latest articles on **technology** and **automation**. Check them out on [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@harikishore205)
+Explore my insights on **technology**, **automation**, and more! Stay inspired and informed through my latest write-ups.  
+
+<div align="center">
+  <a href="https://medium.com/@harikishore205" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Read_on_Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge" />
+  </a>
+</div>
 
 ## **📊 GitHub Stats**
 
