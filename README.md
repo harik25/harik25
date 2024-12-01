@@ -74,9 +74,9 @@
 
 
 <h1 align="center">📝 My Projects</h1>
-1. Uipath1 <br>
-2. Uipath2 <br>
-3. Uipath3
+
+### [YouTube Data Harvesting](https://github.com/yourusername/yourrepo) <br>
+Python-based script to extract data from YouTube using the YouTube API <br> ![Python](https://img.shields.io/badge/python-blue) ![Python](https://img.shields.io/badge/MySQL-blue) ![Python](https://img.shields.io/badge/StreamLite-blue) ![Python](https://img.shields.io/badge/Pandas-blue)
 
 <h1 align="center">✍️ Articles & Blogs</h1>
 
