@@ -67,18 +67,30 @@
 ![UiPath Badge](https://img.shields.io/badge/UiPath_Certified_Specialized_AI_Associate-orange?style=for-the-badge&logo=uipath&logoColor=white) <br>
 ![UiPath Badge](https://img.shields.io/badge/UiPath_Automation_Developer_Professional-orange?style=for-the-badge&logo=uipath&logoColor=white)
 
+<h1 align="center">🏆 Achievements</h1>
 
-<h1 align="center">🏆 Key Achievements</h1>
+<div style="font-size: 16px; line-height: 1.6;">
 
-- **Successfully deployed 5+ automation bots** across various domains, including finance, HR, and customer support, resulting in a reduction of manual effort by up to **70%**.
+### 🚀 Key Achievements
+
+- **Deployed 5+ automation bots** across domains, reducing manual effort by **70%**.
+- **Led a large-scale project** with **99% error-free bot performance**.
+- **Certified UiPath Specialized AI Associate**, integrating AI with RPA.
+- **Optimized business processes** through automation, improving efficiency.
+- **Developed & maintained error-free automation bots** ensuring high reliability.
+
+### 🛠️ Key Technologies
+
+- **UiPath Studio** & **UiPath Orchestrator**
+- **RPA** (Robotic Process Automation)
+- **AI Integration** (NLP, Machine Learning, Communication Mining)
+- **Document Understanding**
+- **RE Framework**
+- **Automation Optimization**
+
+</div>
+
   
-- **Led a large-scale automation project** from ideation to execution, delivering a **99% error-free bot deployment**, significantly improving process efficiency.
-  
-- **Certified as a UiPath Specialized AI Associate**, gaining expertise in integrating **AI technologies** with **RPA solutions** for smarter automation.
-  
-- **Optimized business processes** by automating tasks like data entry, document processing, and report generation, leading to **improved operational efficiency** and cost savings.
-  
-- **Developed and maintained automation bots** with **high reliability and accuracy**, ensuring consistent error-free performance and seamless business operations.
 
 <h1 align="center">📝 My Projects</h1>
 
