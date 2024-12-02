@@ -32,7 +32,7 @@
 
 </div>
 
-<h1 align="center">🚀Skills</h1>
+<h1 align="center">🚀 Technologies </h1>
 
 ### **Automation Tools**
 
@@ -79,14 +79,15 @@
 - **Optimized business processes** through automation, improving efficiency.
 - **Developed & maintained error-free automation bots** ensuring high reliability.
 
-### 🛠️ Key Technologies
+### 🛠️ Key Skills
 
-- **UiPath Studio** & **UiPath Orchestrator**
-- **RPA** (Robotic Process Automation)
-- **AI Integration** (NLP, Machine Learning, Communication Mining)
-- **Document Understanding**
-- **RE Framework**
-- **Automation Optimization**
+- **UiPath Studio**
+- **UiPath Orchestrator**
+- **Robotic Enterprises Framework**
+- **Document Understanding Process**
+- **AI Centre** (Machine Learning Models)
+- **Communication Mining** (Natural Language Processing)
+- **Gen AI**
 
 </div>
 
