@@ -87,7 +87,7 @@
 - **Document Understanding Process**
 - **AI Centre** (Machine Learning Models)
 - **Communication Mining** (Natural Language Processing)
-- **Gen AI**
+- **Gen AI Activities **
 
 </div>
 
