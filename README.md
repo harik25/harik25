@@ -100,7 +100,7 @@ Extract data from YouTube using the YouTube API, process it into a DataFrame, st
 
 <h1 align="center">✍️ Articles & Blogs</h1>
 
-<a align="centre"> Explore my insights on **technology**, **automation**, and more! Check my latest write-ups below !! 👇 </a>
+<a align="centre"> 👉 Explore my insights on **technology**, **automation**, and more! Check my latest write-ups below !! 👇 </a>
 
 <div align="center">
   <a href="https://medium.com/@harikishore205" target="_blank" style="text-decoration:none;">
@@ -109,10 +109,13 @@ Extract data from YouTube using the YouTube API, process it into a DataFrame, st
 </div>
 
 <h1 align="center">🚀GitHub Stats</h1>
+<div align="center">
 
 ![Harik25's Stats](https://github-readme-stats.vercel.app/api?username=Harik25&theme=default&show_icons=true&hide_border=true&count_private=true)
 
 ![Harik25's Streak](https://github-readme-streak-stats.herokuapp.com/?user=harik25&theme=default&hide_border=true)
+
+</div>
 
 <h1 align="center">📱Contact Me</h1>
 
