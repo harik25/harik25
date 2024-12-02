@@ -68,10 +68,17 @@
 ![UiPath Badge](https://img.shields.io/badge/UiPath_Automation_Developer_Professional-orange?style=for-the-badge&logo=uipath&logoColor=white)
 
 
-<h1 align="center">🏆 Achievements</h1>
-1.th1 <br>
-2.th2 <br>
+<h1 align="center">🏆 Key Achievements</h1>
 
+- **Successfully deployed 5+ automation bots** across various domains, including finance, HR, and customer support, resulting in a reduction of manual effort by up to **70%**.
+  
+- **Led a large-scale automation project** from ideation to execution, delivering a **99% error-free bot deployment**, significantly improving process efficiency.
+  
+- **Certified as a UiPath Specialized AI Associate**, gaining expertise in integrating **AI technologies** with **RPA solutions** for smarter automation.
+  
+- **Optimized business processes** by automating tasks like data entry, document processing, and report generation, leading to **improved operational efficiency** and cost savings.
+  
+- **Developed and maintained automation bots** with **high reliability and accuracy**, ensuring consistent error-free performance and seamless business operations.
 
 <h1 align="center">📝 My Projects</h1>
 
