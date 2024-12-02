@@ -2,7 +2,7 @@
 
 <h2 align="center">✨ Welcome to my GitHub Profile! 🤝</h2>
 
-<h3 align="center">🏅 Certified UiPath Developer | 🏆 UiPath Specialized AI Associate | 🚀 AI Automation Enthusiast | 🤖 Expert in integrating AI and Automation to streamline process and drive innovation 🔥⭐ </h3>
+<h3 align="center">🏅 Certified UiPath Developer | 🏆 UiPath Specialized AI Associate | 🚀 AI Automation Enthusiast| <br> 🤖 Expert in integrating AI and Automation to streamline process and drive innovation 🔥⭐ </h3>
 
 
 <h1 align="center">⭐About Me </h1>
