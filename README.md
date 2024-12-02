@@ -110,7 +110,9 @@ Extract data from YouTube using the YouTube API, process it into a DataFrame, st
 
 <h1 align="center">🚀GitHub Stats</h1>
 <div align="center">
-
+  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harik25&label=Profile%20views&color=0e75b6&style=flat" alt="harik25" /> </p>
+  
 ![Harik25's Stats](https://github-readme-stats.vercel.app/api?username=Harik25&theme=default&show_icons=true&hide_border=true&count_private=true)
 
 ![Harik25's Streak](https://github-readme-streak-stats.herokuapp.com/?user=harik25&theme=default&hide_border=true)
