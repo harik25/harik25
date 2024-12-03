@@ -96,7 +96,7 @@
 <h1 align="center">📝 My Projects </h1>
 
 ### [UiPath Expense Tracker App](https://github.com/harik25/ExpenseTrackerUipathApp) <br>
-Automated daily expense tracking and categorization, providing real-time financial insights using UiPath. <br> ![Badge](https://img.shields.io/badge/Uipath_App_stusio-orange)
+Automated daily expense tracking and categorization, providing real-time financial insights using UiPath. <br> ![Badge](https://img.shields.io/badge/Uipath_App_studio-orange) ![Badge](https://img.shields.io/badge/Uipath-orange)
 
 ### [YouTube Data Harvesting](https://github.com/harik25/YotubeDataHarvesting) <br>
 Extract data from YouTube using the YouTube API, process it into a DataFrame, store it in MySQL, and create a Streamlit app for data visualization and interaction. <br> ![Badge](https://img.shields.io/badge/Python-blue) ![Badge](https://img.shields.io/badge/MySQL-blue) ![Badge](https://img.shields.io/badge/Streamlit-blue) ![Badge](https://img.shields.io/badge/Pandas-blue)
