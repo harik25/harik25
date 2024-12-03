@@ -102,10 +102,10 @@ Automated daily expense tracking and categorization, providing real-time financi
 Extract data from YouTube using the YouTube API, process it into a DataFrame, store it in MySQL, and create a Streamlit app for data visualization and interaction. <br> ![Badge](https://img.shields.io/badge/Python-blue) ![Badge](https://img.shields.io/badge/MySQL-blue) ![Badge](https://img.shields.io/badge/Streamlit-blue) ![Badge](https://img.shields.io/badge/Pandas-blue)
 
 ### [Newsfeed Automation](https://github.com/harik25/Newsfeed) <br>
-Developed a bot to gather news from websites and Google Alerts for efficient content aggregation and analysis. <br> ![Badge](https://img.shields.io/badge/Uipath-orange) [Badge](https://img.shields.io/badge/Uipath_Web_studio-orange) [Badge](https://img.shields.io/badge/Data_Scraping-blue)
+Developed a bot to gather news from websites and Google Alerts for efficient content aggregation and analysis. <br> ![Badge](https://img.shields.io/badge/Uipath-orange) ![Badge](https://img.shields.io/badge/Uipath_Web_studio-orange) ![Badge](https://img.shields.io/badge/Data_Scraping-blue)
 
 ### [Website Data Extraction](https://github.com/harik25/AECCwebsiteDataExtraction) <br>
-Automated the extraction of relevant data from the AECC website using UiPath, streamlining data collection and organization for improved efficiency. <br> ![Badge](https://img.shields.io/badge/Uipath-orange) [Badge](https://img.shields.io/badge/Uipath_studio-orange) [Badge](https://img.shields.io/badge/Data_Scraping-blue)
+Automated the extraction of relevant data from the AECC website using UiPath, streamlining data collection and organization for improved efficiency. <br> ![Badge](https://img.shields.io/badge/Uipath-orange) ![Badge](https://img.shields.io/badge/Uipath_studio-orange) ![Badge](https://img.shields.io/badge/Data_Scraping-blue)
 
 
 
