@@ -96,7 +96,7 @@
 <h1 align="center">📝 My Projects </h1>
 
 ### [UiPath Expense Tracker App](https://github.com/harik25/ExpenseTrackerUipathApp) <br>
-Automated daily expense tracking and categorization, providing real-time financial insights using UiPath. <br> ![Badge](https://img.shields.io/badge/Uipath_App-Orange)
+Automated daily expense tracking and categorization, providing real-time financial insights using UiPath. <br> ![Badge](https://img.shields.io/badge/Uipath_App-orange)
 
 ### [YouTube Data Harvesting](https://github.com/harik25/YotubeDataHarvesting) <br>
 Extract data from YouTube using the YouTube API, process it into a DataFrame, store it in MySQL, and create a Streamlit app for data visualization and interaction. <br> ![Badge](https://img.shields.io/badge/Python-blue) ![Badge](https://img.shields.io/badge/MySQL-blue) ![Badge](https://img.shields.io/badge/Streamlit-blue) ![Badge](https://img.shields.io/badge/Pandas-blue)
@@ -107,8 +107,8 @@ Developed a bot to gather news from websites and Google Alerts for efficient con
 ### [Website Data Extraction](https://github.com/harik25/AECCwebsiteDataExtraction) <br>
 Automated the extraction of relevant data from the AECC website using UiPath, streamlining data collection and organization for improved efficiency. <br> ![Badge](https://img.shields.io/badge/Uipath-orange) ![Badge](https://img.shields.io/badge/Uipath_studio-orange) ![Badge](https://img.shields.io/badge/Data_Scraping-blue)
 
-
-
+### [Financial Data Extraction Automation](https://github.com/harik25/FinancialDataExtractionAutomation) <br>
+Automated the extraction of financial data from documents, enhancing accuracy and timeliness of financial reporting. <br> ![Badge](https://img.shields.io/badge/Uipath-orange) ![Badge](https://img.shields.io/badge/Uipath_studio-orange) ![Badge](https://img.shields.io/badge/Excel_Automation-green)  ![Badge](https://img.shields.io/badge/GenAI-orange)  ![Badge](https://img.shields.io/badge/Document_Understanding-orange) 
 
 
 <h1 align="center">✍️ Articles & Blogs</h1>
