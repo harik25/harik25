@@ -93,10 +93,23 @@
 
   
 
-<h1 align="center">📝 My Projects</h1>
+<h1 align="center">📝 My Projects </h1>
+
+### [UiPath Expense Tracker App](https://github.com/harik25/ExpenseTrackerUipathApp) <br>
+Automated daily expense tracking and categorization, providing real-time financial insights using UiPath. <br> ![Badge](https://img.shields.io/badge/Uipath_App-Orange)
 
 ### [YouTube Data Harvesting](https://github.com/harik25/YotubeDataHarvesting) <br>
-Extract data from YouTube using the YouTube API, process it into a DataFrame, store it in MySQL, and create a Streamlit app for data visualization and interaction.<br> ![Python](https://img.shields.io/badge/Python-blue) ![Python](https://img.shields.io/badge/MySQL-blue) ![Python](https://img.shields.io/badge/Streamlit-blue) ![Python](https://img.shields.io/badge/Pandas-blue)
+Extract data from YouTube using the YouTube API, process it into a DataFrame, store it in MySQL, and create a Streamlit app for data visualization and interaction. <br> ![Badge](https://img.shields.io/badge/Python-blue) ![Badge](https://img.shields.io/badge/MySQL-blue) ![Badge](https://img.shields.io/badge/Streamlit-blue) ![Badge](https://img.shields.io/badge/Pandas-blue)
+
+### [Newsfeed Automation](https://github.com/harik25/Newsfeed) <br>
+Developed a bot to gather news from websites and Google Alerts for efficient content aggregation and analysis. <br> ![Badge](https://img.shields.io/badge/Uipath-orange) [Badge](https://img.shields.io/badge/Uipath_Web_studio-orange) [Badge](https://img.shields.io/badge/Data_Scraping-blue)
+
+### [Website Data Extraction](https://github.com/harik25/AECCwebsiteDataExtraction) <br>
+Automated the extraction of relevant data from the AECC website using UiPath, streamlining data collection and organization for improved efficiency. <br> ![Badge](https://img.shields.io/badge/Uipath-orange) [Badge](https://img.shields.io/badge/Uipath_studio-orange) [Badge](https://img.shields.io/badge/Data_Scraping-blue)
+
+
+
+
 
 <h1 align="center">✍️ Articles & Blogs</h1>
 
